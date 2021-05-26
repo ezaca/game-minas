@@ -4,7 +4,6 @@
 
 - [Play on desktop Browsers (WebGL 2.0 for Windows/Linux/Mac)](https://ezaca.github.io/game-minas/WebGL/index.html);
 - [Download for Windows 64](Win64/Minas_win64.zip);
-- [Download for Android](Android/Minas_apk.zip) (untested, do you test your builds?);
 
 Controls:
 
