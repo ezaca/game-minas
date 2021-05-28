@@ -3,7 +3,7 @@
 ## Play it!
 
 - [Play on desktop Browsers (WebGL 2.0 for Windows/Linux/Mac)](https://ezaca.github.io/game-minas/WebGL/index.html);
-- [Download for Windows 64](Win64/Minas_win64.zip);
+- [Download for Windows 64](https://github.com/ezaca/game-minas/releases/download/v0.1-beta.1/Minas_win64.zip);
 
 Controls:
 
